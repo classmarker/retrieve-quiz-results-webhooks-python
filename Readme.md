@@ -6,7 +6,7 @@ ClassMarker is a secure online Quiz Maker platform for Business and Education fo
 
 Our WEBHOOKS allow you to receive Quiz results in real time using Python.
 
-# How to Create a Webhook to receive Quiz results
+# How to Create a Webhook to receive Quiz results in Python
 https://www.classmarker.com/online-testing/manual/#api_webhooks
 
 # Developer Documentation
