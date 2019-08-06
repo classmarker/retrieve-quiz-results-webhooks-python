@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: latin-1 -*-
+
 # PYTHON wеbhooks code example by ClassMarker.com
 
 import json
